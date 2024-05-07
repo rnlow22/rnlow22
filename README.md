@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Lead Data Scientist/ Tech Lead
 ------------------------------
 
-I am a Mathematics and Statistics graduate with over eight years of Data Science experience spanning across prestigious organizations like GXBank, Ernst & Young Consulting, iForte Intelligence (Huawei), and Celcom Mobile, I have honed my expertise in data analytics and data science. 
+I am a Mathematics and Statistics graduate with over 8 years of Data Science experience spanning across prestigious organizations like GXBank, Ernst & Young Consulting, iForte Intelligence (Huawei), and Celcom Mobile, I have honed my expertise in data analytics and data science. 
 
 At GXBank, I spearheaded dashboard and analytics insights development, significantly reducing loading times and enhancing decision-making. 
 At Ernst & Young, I led teams in machine learning projects, achieving notable results in demand forecasting and operational efficiency. My tenure at iForte Intelligence saw me implementing advanced models for telecommunication operators, driving substantial improvements in forecast accuracy. Additionally, my work at Celcom Mobile focused on churn prediction and customer segmentation. I also contributed to academic research at the University Science Malaysia.
