@@ -4,8 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Lead Data Scientist/ Tech Lead
 ------------------------------
 
-I am a Mathematics and Statistics graduate with over eight years of Data Science experience spanning across prestigious organizations like GXBank, Ernst & Young Consulting, iForta Intelligence (Huawei), and Celcom Mobile, I have honed my expertise in data analytics and data science. At GXBank, I spearheaded dashboard development, significantly reducing loading times and enhancing decision-making. At Ernst & Young, I led teams in machine learning projects, achieving notable results in demand forecasting and operational efficiency. My tenure at iForta Intelligence saw me implementing advanced models for telecom operators, driving substantial improvements in forecast accuracy. Additionally, my work at Celcom Mobile focused on churn prediction and customer segmentation. I also contributed to academic research at the University Science Malaysia.
+I am a Mathematics and Statistics graduate with over eight years of Data Science experience spanning across prestigious organizations like GXBank, Ernst & Young Consulting, iForte Intelligence (Huawei), and Celcom Mobile, I have honed my expertise in data analytics and data science. 
 
+At GXBank, I spearheaded dashboard and analytics insights development, significantly reducing loading times and enhancing decision-making. 
+At Ernst & Young, I led teams in machine learning projects, achieving notable results in demand forecasting and operational efficiency. My tenure at iForte Intelligence saw me implementing advanced models for telecommunication operators, driving substantial improvements in forecast accuracy. Additionally, my work at Celcom Mobile focused on churn prediction and customer segmentation. I also contributed to academic research at the University Science Malaysia.
+
+* 🚀  My published research paper can be found [here](http://aip.scitation.org/doi/abs/10.1063/1.4954606)
 * 🌍  I'm based in Kuala Lumpur, Malaysia
 * ✉️  You can contact me at [ning.low@gmail.com](mailto:ning.low@gmail.com)
 
