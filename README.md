@@ -6,8 +6,11 @@ Lead Data Scientist/ Tech Lead
 
 I am a Mathematics and Statistics graduate with over 8 years of Data Science experience spanning across prestigious organizations like GXBank, Ernst & Young Consulting, iForte Intelligence (Huawei), and Celcom Mobile, I have honed my expertise in data analytics and data science. 
 
-At GXBank, I spearheaded dashboard and analytics insights development, significantly reducing loading times and enhancing decision-making. 
-At Ernst & Young, I led teams in machine learning projects, achieving notable results in demand forecasting and operational efficiency. My tenure at iForte Intelligence saw me implementing advanced models for telecommunication operators, driving substantial improvements in forecast accuracy. Additionally, my work at Celcom Mobile focused on churn prediction and customer segmentation. I also contributed to academic research at the University Science Malaysia.
+At GXBank, I led the charge in developing dynamic dashboards and generating actionable insights, resulting in substantial reductions in loading times and empowering more informed decision-making processes.
+
+In my role at Ernst & Young Consulting, I led a team of data scientists and engineers in spearheading advanced analytics initiatives for a prominent water utility company. This encompassed developing end-to-end machine learning models for various applications, including demand forecasting and asset optimization, utilizing Azure Databricks and Azure Machine Learning Platform. I facilitated weekly progress reviews, conducted workshops, and presented findings to stakeholders, driving understanding and adoption of data science solutions. Noteworthy achievements include deploying impactful models, receiving client recognition for dashboard design, and delivering operational business intelligence dashboards to C-level executives.
+
+Additionally, my work at Celcom Mobile focused on churn prediction and customer segmentation. I also contributed to academic research at the University Science Malaysia.
 
 * 🚀  My published research paper can be found [here](http://aip.scitation.org/doi/abs/10.1063/1.4954606)
 * 🌍  I'm based in Kuala Lumpur, Malaysia
