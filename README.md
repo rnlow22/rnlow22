@@ -10,9 +10,11 @@ At **GXBank**, I led the charge in developing dynamic dashboards and generating 
 
 In my role at **Ernst & Young Consulting**, I led a team of data scientists and engineers in spearheading advanced analytics initiatives for a prominent water utility company. This encompassed developing end-to-end machine learning models for various applications, including demand forecasting and asset optimization, utilizing **Azure Databricks** and **Azure Machine Learning** Platform. I facilitated weekly progress reviews, conducted workshops, and presented findings to stakeholders, driving understanding and adoption of data science solutions. Noteworthy achievements include deploying impactful models, receiving client recognition for dashboard design, and delivering operational business intelligence dashboards to C-level executives.
 
-Additionally, my work at Celcom Mobile focused on churn prediction and customer segmentation. I also contributed to academic research at the University Science Malaysia.
+Additionally, my work at **Celcom Mobile** focused on churn prediction and customer segmentation. 
 
-* 🚀  My published research paper can be found [here](http://aip.scitation.org/doi/abs/10.1063/1.4954606)
+I also contributed to academic research at the **University Science Malaysia**.
+
+* 🚀  My published **research paper** can be found [here](http://aip.scitation.org/doi/abs/10.1063/1.4954606)
 * 🌍  I'm based in Kuala Lumpur, Malaysia
 * ✉️  You can contact me at [ning.low@gmail.com](mailto:ning.low@gmail.com)
 
