@@ -19,11 +19,6 @@ I also contributed to academic research at the **University Science Malaysia**.
 * 🚀  My published **research paper** can be found [here](http://aip.scitation.org/doi/abs/10.1063/1.4954606)
 * 🌍  I'm based in Kuala Lumpur, Malaysia
 * ✉️  You can contact me at [ning.low@gmail.com](mailto:ning.low@gmail.com)
-* 🧠  I'm currently working on a personal machine learning regression project focused on predicting the average salary of a Data Scientist with the ultimate goal is to construct an effective regression model tailored to this specific prediction task. Currently work in progress with the following requirements:
-  - Glassdoor API to do relevant data extraction with Beautiful Soup for web scraping.
-  - Data Cleaning/ Preprocessing
-  - Feature Engineering and Selection
-  - Model Building
 
 ### Skills
 
