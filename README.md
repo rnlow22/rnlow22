@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Lead Data Scientist/ Tech Lead
 ------------------------------
 
-I am a graduate with a double major of Mathematics and Statistics and Economics with over 8 years of Data Science experience spanning across prestigious organizations like GXBank, Ernst & Young Consulting, iForte Intelligence (Huawei), and Celcom Mobile, I have honed my expertise in data analytics and data science. I have also graduated from ASEAN Data Analytics eXchange which is one of a prestigious training for highly skilled Data Scientists initiated by Malaysia Digital Economy Corporation (MDEC) Sdn Bhd.
+I am a graduate with a double major of Mathematics and Statistics and Economics with over 9 years of Data Science experience spanning across prestigious organizations like GXBank, Ernst & Young Consulting, iForte Intelligence (Huawei), and Celcom Mobile, I have honed my expertise in data analytics and data science. I have also graduated from ASEAN Data Analytics eXchange which is one of a prestigious training for highly skilled Data Scientists initiated by Malaysia Digital Economy Corporation (MDEC) Sdn Bhd.
 
 At **GXBank**, I led the charge in developing dynamic dashboards and generating actionable insights, resulting in substantial reductions in loading times and empowering more informed decision-making processes for C-level executives.
 
